@@ -3,3 +3,4 @@ bu ikinci setirdir
 bu üçüncü sətirdir,
 bu isə dördüncü sətirdir.
 Beşinci sətri=işarəsi ilə əlavə etdim
+6ci setir de geldi
