@@ -2,3 +2,4 @@ numune metnim buradadir
 bu ikinci setirdir
 bu üçüncü sətirdir,
 bu isə dördüncü sətirdir.
+Beşinci sətri=işarəsi ilə əlavə etdim
